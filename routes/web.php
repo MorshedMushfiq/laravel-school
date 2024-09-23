@@ -89,6 +89,9 @@ Route::get('/ad-dashboard/staff/{status}/{id}', [StudentController::class, 'chan
 
 
 
+// New note for the working development proccess, note here..(only for morshed mushfiq)
+// https://docs.google.com/document/d/1e2FbF8k1DmN7B5JnqCY3SlpdqxNhQLC-YXehs2one-Q/edit?usp=sharing
+
 
 
 
